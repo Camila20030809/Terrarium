@@ -6,7 +6,8 @@ Proyecto de la clase de programacion web orientado
 a practicar las bases del codigo HTML + CSS + JS 💖
 
 # Autor 
-<img 
-src="https//"
+<img src="https://avatars.githubusercontent.com/u/189139402?v=4"
 alt="Camila Arellano Mellado"
 witdh="200"/>
+
+🌟 Arellano Mellado Camila 🌟
